@@ -1,6 +1,10 @@
+import Form from './components/Form/index.js';
+
 function App() {
   return (
-    <h1>Hello from App</h1>
+    <div>
+      <Form />
+    </div>
   );
 }
 
